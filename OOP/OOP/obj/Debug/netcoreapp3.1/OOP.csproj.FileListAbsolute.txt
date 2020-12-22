@@ -1,0 +1,11 @@
+C:\Users\Rio\source\repos\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\Users\Rio\source\repos\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\Users\Rio\source\repos\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\Users\Rio\source\repos\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\Users\Rio\source\repos\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\Users\Rio\source\repos\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\Rio\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+C:\Users\Rio\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\Users\Rio\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\Users\Rio\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\Users\Rio\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
