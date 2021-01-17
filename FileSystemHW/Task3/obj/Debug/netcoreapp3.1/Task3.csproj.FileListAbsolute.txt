@@ -1,0 +1,11 @@
+C:\Users\Rio\source\repos\FileSystemHW\Task3\bin\Debug\netcoreapp3.1\Task3.exe
+C:\Users\Rio\source\repos\FileSystemHW\Task3\bin\Debug\netcoreapp3.1\Task3.deps.json
+C:\Users\Rio\source\repos\FileSystemHW\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.json
+C:\Users\Rio\source\repos\FileSystemHW\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.dev.json
+C:\Users\Rio\source\repos\FileSystemHW\Task3\bin\Debug\netcoreapp3.1\Task3.dll
+C:\Users\Rio\source\repos\FileSystemHW\Task3\bin\Debug\netcoreapp3.1\Task3.pdb
+C:\Users\Rio\source\repos\FileSystemHW\Task3\obj\Debug\netcoreapp3.1\Task3.csprojAssemblyReference.cache
+C:\Users\Rio\source\repos\FileSystemHW\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfoInputs.cache
+C:\Users\Rio\source\repos\FileSystemHW\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfo.cs
+C:\Users\Rio\source\repos\FileSystemHW\Task3\obj\Debug\netcoreapp3.1\Task3.dll
+C:\Users\Rio\source\repos\FileSystemHW\Task3\obj\Debug\netcoreapp3.1\Task3.pdb

@@ -1,0 +1,11 @@
+C:\Users\Rio\source\repos\FileSystemHW\FinalTask\bin\Debug\netcoreapp3.1\FinalTask.exe
+C:\Users\Rio\source\repos\FileSystemHW\FinalTask\bin\Debug\netcoreapp3.1\FinalTask.deps.json
+C:\Users\Rio\source\repos\FileSystemHW\FinalTask\bin\Debug\netcoreapp3.1\FinalTask.runtimeconfig.json
+C:\Users\Rio\source\repos\FileSystemHW\FinalTask\bin\Debug\netcoreapp3.1\FinalTask.runtimeconfig.dev.json
+C:\Users\Rio\source\repos\FileSystemHW\FinalTask\bin\Debug\netcoreapp3.1\FinalTask.dll
+C:\Users\Rio\source\repos\FileSystemHW\FinalTask\bin\Debug\netcoreapp3.1\FinalTask.pdb
+C:\Users\Rio\source\repos\FileSystemHW\FinalTask\obj\Debug\netcoreapp3.1\FinalTask.csprojAssemblyReference.cache
+C:\Users\Rio\source\repos\FileSystemHW\FinalTask\obj\Debug\netcoreapp3.1\FinalTask.AssemblyInfoInputs.cache
+C:\Users\Rio\source\repos\FileSystemHW\FinalTask\obj\Debug\netcoreapp3.1\FinalTask.AssemblyInfo.cs
+C:\Users\Rio\source\repos\FileSystemHW\FinalTask\obj\Debug\netcoreapp3.1\FinalTask.dll
+C:\Users\Rio\source\repos\FileSystemHW\FinalTask\obj\Debug\netcoreapp3.1\FinalTask.pdb
