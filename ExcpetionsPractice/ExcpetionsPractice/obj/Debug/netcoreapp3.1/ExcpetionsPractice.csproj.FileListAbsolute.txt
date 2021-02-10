@@ -1,0 +1,11 @@
+C:\Users\Rio\source\repos\ExcpetionsPractice\ExcpetionsPractice\bin\Debug\netcoreapp3.1\ExcpetionsPractice.exe
+C:\Users\Rio\source\repos\ExcpetionsPractice\ExcpetionsPractice\bin\Debug\netcoreapp3.1\ExcpetionsPractice.deps.json
+C:\Users\Rio\source\repos\ExcpetionsPractice\ExcpetionsPractice\bin\Debug\netcoreapp3.1\ExcpetionsPractice.runtimeconfig.json
+C:\Users\Rio\source\repos\ExcpetionsPractice\ExcpetionsPractice\bin\Debug\netcoreapp3.1\ExcpetionsPractice.runtimeconfig.dev.json
+C:\Users\Rio\source\repos\ExcpetionsPractice\ExcpetionsPractice\bin\Debug\netcoreapp3.1\ExcpetionsPractice.dll
+C:\Users\Rio\source\repos\ExcpetionsPractice\ExcpetionsPractice\bin\Debug\netcoreapp3.1\ExcpetionsPractice.pdb
+C:\Users\Rio\source\repos\ExcpetionsPractice\ExcpetionsPractice\obj\Debug\netcoreapp3.1\ExcpetionsPractice.csprojAssemblyReference.cache
+C:\Users\Rio\source\repos\ExcpetionsPractice\ExcpetionsPractice\obj\Debug\netcoreapp3.1\ExcpetionsPractice.AssemblyInfoInputs.cache
+C:\Users\Rio\source\repos\ExcpetionsPractice\ExcpetionsPractice\obj\Debug\netcoreapp3.1\ExcpetionsPractice.AssemblyInfo.cs
+C:\Users\Rio\source\repos\ExcpetionsPractice\ExcpetionsPractice\obj\Debug\netcoreapp3.1\ExcpetionsPractice.dll
+C:\Users\Rio\source\repos\ExcpetionsPractice\ExcpetionsPractice\obj\Debug\netcoreapp3.1\ExcpetionsPractice.pdb

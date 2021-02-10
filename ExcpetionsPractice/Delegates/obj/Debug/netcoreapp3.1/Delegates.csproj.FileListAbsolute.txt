@@ -1,0 +1,11 @@
+C:\Users\Rio\source\repos\ExcpetionsPractice\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\Rio\source\repos\ExcpetionsPractice\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\Rio\source\repos\ExcpetionsPractice\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\Rio\source\repos\ExcpetionsPractice\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\Rio\source\repos\ExcpetionsPractice\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\Rio\source\repos\ExcpetionsPractice\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\Rio\source\repos\ExcpetionsPractice\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+C:\Users\Rio\source\repos\ExcpetionsPractice\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\Rio\source\repos\ExcpetionsPractice\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\Rio\source\repos\ExcpetionsPractice\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\Rio\source\repos\ExcpetionsPractice\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
