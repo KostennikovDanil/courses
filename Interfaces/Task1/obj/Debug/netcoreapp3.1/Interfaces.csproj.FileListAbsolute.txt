@@ -1,0 +1,11 @@
+C:\Users\Rio\source\repos\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\Rio\source\repos\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\Rio\source\repos\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\Rio\source\repos\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\Rio\source\repos\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Rio\source\repos\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\Rio\source\repos\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\Rio\source\repos\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Rio\source\repos\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\Rio\source\repos\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Rio\source\repos\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
