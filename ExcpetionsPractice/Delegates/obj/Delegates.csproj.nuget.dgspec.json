@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rio\\source\\repos\\ExcpetionsPractice\\Delegates\\Delegates.csproj": {}
+    "C:\\Users\\Rio\\Documents\\GitHub\\courses\\ExcpetionsPractice\\Delegates\\Delegates.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rio\\source\\repos\\ExcpetionsPractice\\Delegates\\Delegates.csproj": {
+    "C:\\Users\\Rio\\Documents\\GitHub\\courses\\ExcpetionsPractice\\Delegates\\Delegates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rio\\source\\repos\\ExcpetionsPractice\\Delegates\\Delegates.csproj",
+        "projectUniqueName": "C:\\Users\\Rio\\Documents\\GitHub\\courses\\ExcpetionsPractice\\Delegates\\Delegates.csproj",
         "projectName": "Delegates",
-        "projectPath": "C:\\Users\\Rio\\source\\repos\\ExcpetionsPractice\\Delegates\\Delegates.csproj",
+        "projectPath": "C:\\Users\\Rio\\Documents\\GitHub\\courses\\ExcpetionsPractice\\Delegates\\Delegates.csproj",
         "packagesPath": "C:\\Users\\Rio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rio\\source\\repos\\ExcpetionsPractice\\Delegates\\obj\\",
+        "outputPath": "C:\\Users\\Rio\\Documents\\GitHub\\courses\\ExcpetionsPractice\\Delegates\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rio\\AppData\\Roaming\\NuGet\\NuGet.Config",

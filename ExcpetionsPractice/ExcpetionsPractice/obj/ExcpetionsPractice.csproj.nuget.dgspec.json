@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rio\\source\\repos\\ExcpetionsPractice\\ExcpetionsPractice\\ExcpetionsPractice.csproj": {}
+    "C:\\Users\\Rio\\Documents\\GitHub\\courses\\ExcpetionsPractice\\ExcpetionsPractice\\ExcpetionsPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rio\\source\\repos\\ExcpetionsPractice\\ExcpetionsPractice\\ExcpetionsPractice.csproj": {
+    "C:\\Users\\Rio\\Documents\\GitHub\\courses\\ExcpetionsPractice\\ExcpetionsPractice\\ExcpetionsPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rio\\source\\repos\\ExcpetionsPractice\\ExcpetionsPractice\\ExcpetionsPractice.csproj",
+        "projectUniqueName": "C:\\Users\\Rio\\Documents\\GitHub\\courses\\ExcpetionsPractice\\ExcpetionsPractice\\ExcpetionsPractice.csproj",
         "projectName": "ExcpetionsPractice",
-        "projectPath": "C:\\Users\\Rio\\source\\repos\\ExcpetionsPractice\\ExcpetionsPractice\\ExcpetionsPractice.csproj",
+        "projectPath": "C:\\Users\\Rio\\Documents\\GitHub\\courses\\ExcpetionsPractice\\ExcpetionsPractice\\ExcpetionsPractice.csproj",
         "packagesPath": "C:\\Users\\Rio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rio\\source\\repos\\ExcpetionsPractice\\ExcpetionsPractice\\obj\\",
+        "outputPath": "C:\\Users\\Rio\\Documents\\GitHub\\courses\\ExcpetionsPractice\\ExcpetionsPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rio\\AppData\\Roaming\\NuGet\\NuGet.Config",
