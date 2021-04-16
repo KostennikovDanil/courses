@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{360B7ADD-82BA-4BF7-AB1E-20D0D0B3B02E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparison", "Comparison\Comparison.csproj", "{7DB62643-B923-488E-BB30-49FDC22FFAB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{360B7ADD-82BA-4BF7-AB1E-20D0D0B3B02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360B7ADD-82BA-4BF7-AB1E-20D0D0B3B02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360B7ADD-82BA-4BF7-AB1E-20D0D0B3B02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360B7ADD-82BA-4BF7-AB1E-20D0D0B3B02E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DB62643-B923-488E-BB30-49FDC22FFAB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB62643-B923-488E-BB30-49FDC22FFAB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB62643-B923-488E-BB30-49FDC22FFAB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB62643-B923-488E-BB30-49FDC22FFAB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F6A65FE-5EAA-4B36-BAD1-E5A51D71BC20}
+	EndGlobalSection
+EndGlobal
